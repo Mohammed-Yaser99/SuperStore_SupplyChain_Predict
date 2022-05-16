@@ -1,0 +1,12 @@
+# local package
+-e .
+
+# external requirements
+flask
+xgboost==1.5.0
+scikit-learn
+python
+numpy
+seaborn
+gunicorn 
+joblib
